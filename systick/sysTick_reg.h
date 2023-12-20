@@ -1,0 +1,21 @@
+/*
+ * sysTick_reg.h
+ *
+ *  Created on: Nov 6, 2023
+ *      Author: sala7
+ */
+
+#ifndef MCAL_SYSTICK_INC_SYSTICK_REG_H_
+#define MCAL_SYSTICK_INC_SYSTICK_REG_H_
+
+#define SYSTICK_BASE_ADDRESS			(0xE000E010ul)
+
+#define SYSTICK_STK_CTRL_OFFSET			(0x00u)
+#define SYSTICK_STK_LOAD_OFFSET			(0x04u)
+#define SYSTICK_STK_VAL_OFFSET			(0x08u)
+
+#define SYSTICK_STK_CTRL_REG			(*(volatile u32*) (SYSTICK_BASE_ADDRESS + SYSTICK_STK_CTRL_OFFSET))
+#define SYSTICK_STK_LOAD_REG			(*(volatile u32*) (SYSTICK_BASE_ADDRESS + SYSTICK_STK_LOAD_OFFSET))
+#define SYSTICK_STK_VAL_REG			 	(*(volatile u32*) (SYSTICK_BASE_ADDRESS + SYSTICK_STK_VAL_OFFSET))
+
+#endif /* MCAL_SYSTICK_INC_SYSTICK_REG_H_ */
