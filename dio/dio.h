@@ -5,7 +5,6 @@
  *
  * Description: Header File for the DIO Driver
  *
- * Author: Ahmed Salah
  *
  *******************************************************************************/
 

@@ -7,7 +7,7 @@
  *
  * Description: Source file for the DIO driver
  *
- * Author: Ahmed Salah
+ 
  *
  *******************************************************************************/
 

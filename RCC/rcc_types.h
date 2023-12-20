@@ -1,9 +1,4 @@
-/*
- * rcc_types.h
- *
- *  Created on: Nov 5, 2023
- *      Author: Abelrahman
- */
+
 
 #ifndef RCC_TYPES_H_
 #define RCC_TYPES_H_

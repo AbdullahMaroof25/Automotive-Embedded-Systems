@@ -1,10 +1,3 @@
-/*
- * rcc.c
- *
- *  Created on: Nov 5, 2023
- *      Author: Abelrahman
- */
-
 
 
 #include "rcc.h"

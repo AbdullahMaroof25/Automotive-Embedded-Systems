@@ -1,9 +1,4 @@
-/*
- * sysTick_reg.h
- *
- *  Created on: Nov 6, 2023
- *      Author: sala7
- */
+
 
 #ifndef MCAL_SYSTICK_INC_SYSTICK_REG_H_
 #define MCAL_SYSTICK_INC_SYSTICK_REG_H_

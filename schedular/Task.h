@@ -1,9 +1,3 @@
-/*
- * Task.h
- *
- *  Created on: Nov 25, 2023
- *      Author: 2022
- */
 
 #ifndef TASK_H_
 #define TASK_H_

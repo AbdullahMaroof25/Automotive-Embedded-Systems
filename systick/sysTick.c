@@ -1,9 +1,4 @@
-/*
- * sysTick.c
- *
- *  Created on: Nov 6, 2023
- *      Author: sala7
- */
+
 #include "sysTick.h"
 
 

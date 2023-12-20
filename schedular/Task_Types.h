@@ -1,9 +1,4 @@
-/*
- * Task_Types.h
- *
- *  Created on: Nov 25, 2023
- *      Author: 2022
- */
+
 
 #ifndef TASK_TYPES_H_
 #define TASK_TYPES_H_

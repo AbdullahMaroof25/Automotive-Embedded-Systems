@@ -5,7 +5,6 @@
  *
  * Description: User-defined Types Header File for the DIO Driver
  *
- * Author: Ahmed Salah
  *
  *******************************************************************************/
 

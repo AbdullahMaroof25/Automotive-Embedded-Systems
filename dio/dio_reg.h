@@ -4,9 +4,7 @@
  * File Name: dio_reg.h
  *
  * Description: Header File for the DIO Driver registers
- *
- * Author: Ahmed Salah
- *
+ * 
  *******************************************************************************/
 
 #ifndef DIO_REG_H_

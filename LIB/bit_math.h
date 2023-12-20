@@ -5,7 +5,6 @@
  *
  * Description: Contains essential macro-like functions
  *
- * Author: Ahmed Salah
  *
  *******************************************************************************/
 

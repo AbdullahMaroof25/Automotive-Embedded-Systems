@@ -5,7 +5,6 @@
  *
  * Description: Contains essential standard types
  *
- * Author: Ahmed Salah
  *
  *******************************************************************************/
 

@@ -1,9 +1,4 @@
-/*
- * rcc.h
- *
- *  Created on: Nov 5, 2023
- *      Author: Abelrahman
- */
+
 
 #ifndef RCC_H_
 #define RCC_H_
