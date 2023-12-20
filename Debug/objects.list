@@ -1,8 +1,0 @@
-"RCC/rcc.o"
-"Src/main.o"
-"Src/syscalls.o"
-"Src/sysmem.o"
-"Startup/startup_stm32f303retx.o"
-"dio/dio.o"
-"schedular/Task.o"
-"systick/sysTick.o"

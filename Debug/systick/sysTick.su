@@ -1,4 +1,0 @@
-sysTick.c:12:6:SysTick_Handler	8	static
-sysTick.c:20:6:sysTick_init	16	static
-sysTick.c:35:6:sysTick_start	16	static
-sysTick.c:41:6:sysTick_stop	4	static
